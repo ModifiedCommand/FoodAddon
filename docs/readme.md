@@ -115,7 +115,7 @@ Notes: After eating, gives you glass bottle
 ```
 
 
-## [![raw_wafffle.png](../foodrp/textures/items/raw_wafffle.png)](../foodrp/textures/items/raw_wafffle.png) Raw Waffle
+## [![raw_wafffle.png](../foodrp/textures/items/raw_wafffle.png)](../foodrp/textures/items/raw_waffle.png) Raw Waffle
 
 
 [![raw_waffle_recipe.png](images/raw_waffle_recipe.png)](images/raw_waffle_recipe.png)
@@ -320,7 +320,7 @@ Milk Bucket X3
 Effects: None
 Stack Size: 64
 How many hunger: 10 hunger
-Notes: Returns 9 Buckets
+Notes: Returns 3 Buckets
 ```
 
 
