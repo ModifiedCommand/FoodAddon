@@ -27,7 +27,7 @@
             "textures": "textures/items/curry"
         },
         "raw_waffle": {
-            "textures": "textures/items/raw_wafffle"
+            "textures": "textures/items/raw_waffle"
         },
         "empty_mre": {
             "textures": "textures/items/empty_mre"
