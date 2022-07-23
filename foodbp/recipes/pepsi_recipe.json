@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:pepsi"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            " D ",
+            " S ",
+            " W "
+        ],
+        "key": {
+            "D": {
+                "item": "minecraft:dye",
+                "data": 18
+            },
+            "S": {
+                "item": "minecraft:sugar"
+            },
+            "W": {
+                "item": "minecraft:potion"
+            }
+        },
+        "result": {
+            "item": "food:pepsi",
+            "count": 1
+        }
+    }
+}

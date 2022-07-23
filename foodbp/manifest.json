@@ -1,0 +1,36 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Modified Command Food Addon Behavior Pack",
+        "uuid": "83061a61-ae3e-4b4d-b91c-54f1aaf9480e",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [{
+        "description": "",
+        "type": "data",
+        "uuid": "1f415729-7c36-486f-83ae-a45bad80b6f1",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    }],
+    "dependencies": [{
+        "uuid": "88d3337e-a0af-49db-9d17-713b25dff307",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    }]
+}

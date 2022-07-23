@@ -1,0 +1,28 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Modified Command Food Addon Resource Pack",
+        "uuid": "88d3337e-a0af-49db-9d17-713b25dff307",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [{
+        "description": "",
+        "type": "resources",
+        "uuid": "4060e225-501c-4f09-be3d-5ce053135041",
+        "version": [
+            0,
+            0,
+            1
+        ]
+    }]
+}

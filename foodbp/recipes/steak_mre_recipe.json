@@ -1,0 +1,34 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:steak_mre_recipe"
+        },
+        "groups": [
+            "food"
+        ],
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            " M ",
+            " S ",
+            " B "
+        ],
+        "key": {
+            "M": {
+                "item": "food:empty_mre"
+            },
+            "S": {
+                "item": "minecraft:cooked_beef"
+            },
+            "B": {
+                "item": "minecraft:bread"
+            }
+        },
+        "result": {
+            "item": "food:steak_mre",
+            "count": 1
+        }
+    }
+}

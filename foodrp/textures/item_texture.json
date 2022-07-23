@@ -1,0 +1,66 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "jerky": {
+            "textures": "textures/items/jerky"
+        },
+        "cooked_waffle": {
+            "textures": "textures/items/waffle"
+        },
+        "ramen": {
+            "textures": "textures/items/ramen"
+        },
+        "chocolate_milk": {
+            "textures": "textures/items/chocolate_milk"
+        },
+        "apple_pie": {
+            "textures": "textures/items/apple_pie"
+        },
+        "curry_powder": {
+            "textures": "textures/items/seasoning"
+        },
+        "hot_chocolate": {
+            "textures": "textures/items/hot_chocolate"
+        },
+        "curry": {
+            "textures": "textures/items/curry"
+        },
+        "raw_waffle": {
+            "textures": "textures/items/raw_wafffle"
+        },
+        "empty_mre": {
+            "textures": "textures/items/empty_mre"
+        },
+        "steak_mre": {
+            "textures": "textures/items/steak_mre"
+        },
+        "chicken_mre": {
+            "textures": "textures/items/chicken_mre"
+        },
+        "coke": {
+            "textures": "textures/items/coke"
+        },
+        "pepsi": {
+            "textures": "textures/items/pepsi"
+        },
+        "cheese": {
+            "textures": "textures/items/cheese"
+        },
+        "cheese_pizza": {
+            "textures": "textures/items/cheese_pizza"
+        },
+        "pepperoni_pizza": {
+            "textures": "textures/items/pepperoni_pizza"
+        },
+        "vegan_pizza": {
+            "textures": "textures/items/vegan_pizza"
+        },
+        "cursed_pizza": {
+            "textures": "textures/items/cursed_pizza"
+        },
+        "baguette": {
+            "textures": "textures/items/baguette"
+        }
+    }
+}
