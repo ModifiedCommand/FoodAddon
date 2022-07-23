@@ -115,7 +115,7 @@ Notes: After eating, gives you glass bottle
 ```
 
 
-## [![raw_wafffle.png](../foodrp/textures/items/raw_wafffle.png)](../foodrp/textures/items/raw_waffle.png) Raw Waffle
+## [![raw_wafffle.png](../foodrp/textures/items/raw_waffle.png)](../foodrp/textures/items/raw_waffle.png) Raw Waffle
 
 
 [![raw_waffle_recipe.png](images/raw_waffle_recipe.png)](images/raw_waffle_recipe.png)
